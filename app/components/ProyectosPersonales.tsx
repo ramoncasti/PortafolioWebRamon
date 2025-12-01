@@ -2,7 +2,7 @@ export default function ProyectosPersonales() {
   return (
     <section className="py-5">
       <div className="container">
-        <h3 className="h4 mb-3">Proyectos Personales</h3>
+        <h3 className="h4 mb-3">Proyectos Freelance</h3>
 
         <div className="row g-4">
 
