@@ -8,8 +8,7 @@ export default function Hero() {
             <h1 className="hero-title mb-2">Hola, soy Ramón</h1>
 
             <p className="hero-subtitle mb-3">
-              Estudiante de Ingeniería en Informática, enfocado en el desarrollo de software
-              y automatización de procesos.
+              Enfocado en el desarrollo de software y en la automatización de procesos.
             </p>
 
             <p className="hero-subtitle mb-4">

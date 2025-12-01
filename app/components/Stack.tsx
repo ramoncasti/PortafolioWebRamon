@@ -20,14 +20,9 @@ export default function Stack() {
         <ul className="list-unstyled d-flex flex-wrap justify-content-center gap-4">
           {tech.map((t, i) => (
             <li
-              key={i}
-              className="d-flex align-items-center justify-content-center rounded shadow"
-              style={{
-                width: "85px",
-                height: "85px",
-                background: "rgba(255,255,255,0.05)",
-              }}
-            >
+  key={i}
+  className="tech-item"
+>
               <img
                 src={t.icon}
                 alt={t.name}
