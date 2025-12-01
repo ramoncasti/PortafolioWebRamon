@@ -41,7 +41,7 @@ export default function Hero() {
           <div className="col-lg-5 d-flex justify-content-lg-end align-items-center">
             <div className="text-center">
               <div className="avatar-wrapper mb-3 mx-auto">
-                <img src="/assets/foto_ramon.jpg" alt="Foto de Ramón" />
+                <img src="/img/foto_ramon.jpg" alt="Foto de Ramón" />
               </div>
               <strong className="text-white mb-1">Desarrollador de Software · Backend · Frontend</strong>
             </div>

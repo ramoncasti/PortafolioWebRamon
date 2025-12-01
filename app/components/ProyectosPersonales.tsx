@@ -12,7 +12,7 @@ export default function ProyectosPersonales() {
               <div id="carouselFlota" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-inner">
                   <div className="carousel-item active">
-                    <img src="/assets/flota1.png" className="d-block w-100 project-img" />
+                    <img src="/img/flota1.png" className="d-block w-100 project-img" />
                   </div>
                 </div>
 
@@ -45,11 +45,11 @@ export default function ProyectosPersonales() {
               <div id="carouselOdonto" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-inner">
                   <div className="carousel-item active">
-                    <img src="/assets/odonto1.png" className="d-block w-100 project-img" />
+                    <img src="/img/odonto1.png" className="d-block w-100 project-img" />
                   </div>
 
                   <div className="carousel-item">
-                    <img src="/assets/odonto2.png" className="d-block w-100 project-img" />
+                    <img src="/img/odonto2.png" className="d-block w-100 project-img" />
                   </div>
                 </div>
 
