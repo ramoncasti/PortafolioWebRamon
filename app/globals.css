@@ -163,9 +163,10 @@ body {
 /* 🖼 IMÁGENES DE PROYECTOS */
 /* ============================= */
 .project-img {
-  height: 260px !important;
-  width: 100% !important;
-  object-fit: cover !important;
+  max-height: 260px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 /* ============================= */
