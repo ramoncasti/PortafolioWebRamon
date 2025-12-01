@@ -3,6 +3,9 @@ import Footer from "./components/Footer";
 
 export const metadata = {
   title: "Portafolio | Ramón López",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
@@ -12,31 +15,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
-      <head>
-        {/* Bootstrap 5 - SOLO CDN */}
-        <link
-          href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
-          rel="stylesheet"
-        />
+      <body>
 
-        {/* Bootstrap Icons */}
-        <link
-          href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
-          rel="stylesheet"
-        />
+        {children}
+        <Footer />
 
-        {/* Bootstrap JS */}
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
           defer
         ></script>
-      </head>
 
-      <body>
-        {children}
-
-        {/* ⬇️ Footer aquí */}
-        <Footer />
       </body>
     </html>
   );
