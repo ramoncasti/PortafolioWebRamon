@@ -9,7 +9,7 @@ export default function SobreMi() {
             <div className="card card-custom">
               <div className="card-body">
                 <p className="card-text">
-                  Me apasiona el desarrollo web, el análisis de datos y la automatización con Python.Me apasiona el desarrollo web, el análisis de datos y la automatización de tareas con Python. Disfruto aprender nuevas tecnologías y aplicar buenas
+                  Me apasiona el desarrollo web, el análisis de datos y la automatización con Python. Disfruto aprender nuevas tecnologías y aplicar buenas
                   prácticas de diseño de software en cada proyecto.
                 </p>
                 <p className="card-text">
@@ -24,8 +24,8 @@ export default function SobreMi() {
               <div className="card-body">
                 <h6 className="card-title mb-3">Tecnologías que manejo</h6>
                 <ul>
-                  <li>Python · PHP · Typescript</li>
-                  <li>Django · Laravel · React · NextJS · Angular</li>
+                  <li>Python · C# · Typescript</li>
+                  <li>Django · .NET · React · NextJS · Angular</li>
                   <li>SQL Server · PostgreSQL · OracleSQL</li>
                   <li>HTML · CSS · Bootstrap 5</li>
                   <li>Power BI · Power Automate</li>

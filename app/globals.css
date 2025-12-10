@@ -67,6 +67,11 @@ body {
   font-weight: 600;
 }
 
+.highwhite {
+  color: #EEEEEE;
+  font-weight: 650;
+}
+
 /* Foto circular */
 .avatar-wrapper {
   width: 180px;

@@ -12,8 +12,10 @@ export default function Hero() {
             </p>
 
             <p className="hero-subtitle mb-4">
-              Me gusta aplicar principios de <span className="highlight">diseño limpio</span> y buenas prácticas,
-              creando soluciones web que realmente aporten valor al negocio.
+              Escribo código <span  className="highwhite">claro</span> y
+              <span  className="highwhite"> mantenible</span>, aplicando
+              buenas prácticas para desarrollar soluciones que generen valor real para
+              el negocio.
             </p>
 
             <div className="d-flex flex-wrap gap-3 hero-buttons mb-4">
@@ -22,18 +24,18 @@ export default function Hero() {
               </a>
 
               <a href="https://www.linkedin.com/in/ram%C3%B3n-l%C3%B3pez-9a86a1203/" target="_blank"
-                 className="btn btn-ghost d-flex align-items-center gap-2">
+                className="btn btn-ghost d-flex align-items-center gap-2">
                 <i className="bi bi-linkedin"></i> LinkedIn
               </a>
 
               <a href="https://github.com/ramoncasti" target="_blank"
-                 className="btn btn-ghost d-flex align-items-center gap-2">
+                className="btn btn-ghost d-flex align-items-center gap-2">
                 <i className="bi bi-github"></i> GitHub
               </a>
             </div>
 
             <p className="text-secondary small">
-              Desde Paraguay 🇵🇾 · Desarrollo web con Python, PHP.
+              Desde Paraguay 🇵🇾 · Desarrollo web con Python, C#.
             </p>
           </div>
 

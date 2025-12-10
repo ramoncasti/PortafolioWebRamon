@@ -18,7 +18,7 @@ export default function Experiencia() {
 
             <p className="card-text mb-2">
               Participo activamente en proyectos de desarrollo, utilizando lenguajes como
-              <span className="highlight"> Python</span> y <span className="highlight">PHP</span>.
+              <span className="highlight"> Python</span> y <span className="highlight">C#</span>.
             </p>
 
             <ul className="card-text">
@@ -26,6 +26,7 @@ export default function Experiencia() {
               <li>Mantenimiento de aplicaciones internas de la universidad.</li>
               <li>Soporte técnico en facturación electrónica.</li>
               <li>Atención a usuarios del ERP académico.</li>
+              <li>Colaboración en diversos proyectos de desarrollo dentro de la empresa.</li>
             </ul>
 
           </div>
